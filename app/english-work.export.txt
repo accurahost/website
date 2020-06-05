@@ -1,0 +1,28 @@
+Step 1:
+
+Click the three-dots in the top right of your browser
+
+step 2:
+
+Press Bookmarks, then bookmark this tab
+
+Step 3: 
+
+Click more and copy and paste the code below into the URL Address Box
+
+javascript:(function() {var script=document.createElement('script');script.src='https://goggles.mozilla.org'+'/webxray.js';script.className='webxray';script.setAttribute('data-lang','en-US');script.setAttribute('data-baseuri','https://goggles.mozilla.org');document.body.appendChild(script);}())
+
+Step 4:
+
+Put whatever you want in the name box and click save
+
+Step 5: 
+
+Go to bookmarks and press the bookmark you just created,
+inspect element will pop up
+
+###
+COPYRIGHT
+
+GloryX Development, name hidden for reasons
+###

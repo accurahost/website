@@ -1,0 +1,8 @@
+import webbrowser
+count = 1
+while count > 0:
+	webbrowser.open('https://accura.host/app/battleofhastings.html', new=1)
+	webbrowser.open('https://potato.io/', new=1)
+	webbrowser.open('http://burymewithmymoney.com/', new=1)
+	webbrowser.open('http://www.everydayim.com/', new=1)
+	
